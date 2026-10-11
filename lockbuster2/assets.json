@@ -1,0 +1,23 @@
+{
+  "copy-map-0.bin": 160,
+  "copy-map-1.bin": 160,
+  "copy-map-2.bin": 160,
+  "copy-map-3.bin": 160,
+  "copy-map-4.bin": 160,
+  "copy-map-5.bin": 160,
+  "font.bin": 23600,
+  "font.png": 15471,
+  "message-0.bin": 32,
+  "message-1.bin": 43,
+  "message-2.bin": 179,
+  "message-3.bin": 180,
+  "message-4.bin": 199,
+  "message-5.bin": 171,
+  "message-6.bin": 338,
+  "message-7.bin": 464,
+  "message-8.bin": 519,
+  "message-9.bin": 476,
+  "music.ym": 1141,
+  "raster-new.bin": 236,
+  "raster-old.bin": 278
+}

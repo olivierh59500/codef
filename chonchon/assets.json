@@ -1,0 +1,17 @@
+{
+  "background.bin": 32000,
+  "font-source.bin": 64807,
+  "logo-bank.png": 6342,
+  "logo-path.bin": 40000,
+  "logo-y.bin": 724,
+  "message.bin": 190,
+  "meter-mask.png": 1202,
+  "meter-raw.bin": 8320,
+  "music.ym": 3305,
+  "palette.bin": 32,
+  "raster.bin": 56,
+  "scroll-y.bin": 5832,
+  "star-index.bin": 600,
+  "star-paths.bin": 54000,
+  "volume-curve.bin": 16
+}

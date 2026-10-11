@@ -1,0 +1,22 @@
+{
+  "background.png": 7024,
+  "font.png": 6648,
+  "initial-sprites.bin": 136,
+  "landscape-script.bin": 400,
+  "landscape.bin": 104000,
+  "logo-path.bin": 16332,
+  "logo.png": 711,
+  "manifest.json": 181,
+  "message.txt": 1999,
+  "meter-colors.bin": 96,
+  "music.ym": 293241,
+  "palette.bin": 32,
+  "pillar-0.png": 364,
+  "pillar-1.png": 367,
+  "pillar-2.png": 363,
+  "pillar-3.png": 361,
+  "raster-data.bin": 1014,
+  "raster-pairs.bin": 400,
+  "scroll-profile.json": 161,
+  "sprite.png": 225
+}

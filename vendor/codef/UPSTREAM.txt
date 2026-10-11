@@ -1,0 +1,6 @@
+CODEF — Canvas Oldschool Demo Effects Framework
+Author: Antoine Santo (N0NameN0) and contributors
+Source: https://github.com/N0NameN0/CODEF
+Commit: 61b8346dff51bbc2520e858dbf34c17f7c8ff4e6
+Downloaded: 2026-10-11
+Unmodified upstream files. MIT license included in each source file.

@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Chonchon 2 — démo HTML/JavaScript avec CODEF. Production originale : Chon-Chon / DMA.">
+  <title>Chonchon 2 · CODEF</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="../shared/demo.css">
+  <script src="../vendor/codef/codef_core.js"></script>
+  <script src="../vendor/codef/codef_music.NoMinified.js"></script>
+
+</head>
+<body data-assets="./assets/">
+  <header><h1>Chonchon 2</h1><a href="../index.html">Toutes les démos</a></header>
+  <main id="screen"></main>
+  <footer>
+    <nav aria-label="Lecture de la démo">
+      <button id="sound" type="button" aria-pressed="false">Activer le son</button>
+      <button id="pause" type="button">Pause</button>
+      <button id="fullscreen" type="button">Plein écran</button>
+    </nav>
+    <p id="status" role="status">Chargement des graphismes et de la musique…</p>
+    <p class="credit">Chon-Chon / DMA · Portage HTML/JS avec <a href="https://codef.santo.fr/">CODEF</a> · 50 Hz</p>
+  </footer>
+  <script src="../shared/runtime.classic.js"></script>
+  <script src="./assets.js"></script>
+  <script src="./demo.classic.js"></script>
+</body>
+</html>
