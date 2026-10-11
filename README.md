@@ -109,6 +109,7 @@ Mouse and touch actions below refer to the demo canvas. "Left half" and
 | Path | Purpose |
 | --- | --- |
 | `index.html` | Collection index linking to all 14 demos |
+| `thumbnails/` | Preview images for the collection index |
 | `<demo>.html` and `<demo>/index.html` | Two entry points for the same demo |
 | `<demo>/demo.js` | ES module version of the scene logic |
 | `<demo>/demo.classic.js` | Classic script version loaded by the HTML pages |
